@@ -9,11 +9,11 @@
 ## Durbin Watson Test, Johansen Test and ADF,KPSS tests
 ## External files reqd: DTB1YR.csv, DTB4WK.csv for some part of the code 
 ######################################################################################
-## AV_Project2.ipynb: Feature Extraction or Dimension Reduction: using VIF, LASSO, PCA 
-## and Factor Analysis
+## AV_Project2.ipynb: Feature Extraction or Dimension Reduction: using VIF, LASSO, 
+## PCA and Factor Analysis
 ######################################################################################
-## AV_Project3.ipynb: Portfolio Optimization for Cryptocurrency based on Adj CLose and 
-## Returns for BTC, ETH, USDT and Tether
+## AV_Project3.ipynb: Portfolio Optimization for Cryptocurrency based on  
+## Adj CLose and Returns for BTC, ETH, USDT and Tether
 ## 
 ########################################################################################
 ## AV_Project4.ipynb: EDA and Effect of outliers on Regression-Visualization
